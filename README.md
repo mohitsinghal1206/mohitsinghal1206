@@ -30,29 +30,7 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 <img src="https://komarev.com/ghpvc/?username=mohitsinghal1206&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
----
 
-# 💼 Professional Experience
-
-### Software Engineer • CodeStore Technologies Pvt. Ltd.
-📍 Noida, India • **Jun 2025 – Present**
-
-Building enterprise AI applications and automation platforms using **LLMs, LangChain, LangGraph, FastAPI, Microsoft Copilot Studio, n8n, Azure, Microsoft Graph APIs and RAG**.
-
-- 🤖 Enterprise AI Agents
-- ⚡ AI Automation
-- ☁️ Azure & Microsoft Ecosystem Integrations
-- 🚀 Production-ready AI Applications
-
----
-
-# 🎓 Education
-
-**B.Tech – Computer Science & Engineering**
-
-Uttaranchal University, Dehradun
-
-🎓 Graduated **2025**
 
 ---
 
@@ -114,18 +92,24 @@ Current work includes:
 
 ---
 
-# 📊 GitHub Stats
+# 💼 Professional Experience
 
-<p align="center">
+### Software Engineer • CodeStore Technologies Pvt. Ltd.
+📍 Noida, India • **Jun 2025 – Present**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitsinghal1206&show_icons=true&theme=tokyonight&hide_border=true"/>
+Building enterprise AI applications and automation platforms using **LLMs, LangChain, LangGraph, FastAPI, Microsoft Copilot Studio, n8n, Azure, Microsoft Graph APIs and RAG**.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsinghal1206&layout=compact&theme=tokyonight&hide_border=true"/>
+- 🤖 Enterprise AI Agents
+- ⚡ AI Automation
+- ☁️ Azure & Microsoft Ecosystem Integrations
+- 🚀 Production-ready AI Applications
 
-</p>
+---
 
-<p align="center">
+# 🎓 Education
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsinghal1206&theme=tokyonight&hide_border=true"/>
+**B.Tech – Computer Science & Engineering**
 
-</p>
+Uttaranchal University, Dehradun
+
+🎓 Graduated **2025**
