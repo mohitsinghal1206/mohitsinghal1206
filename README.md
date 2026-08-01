@@ -72,6 +72,15 @@ I build production-ready AI systems that automate real-world business workflows 
 - Vector Databases
 
 ---
+# 💼 Professional Experience
+
+### Software Engineer | CodeStore Technologies Pvt. Ltd.
+📍 Noida, India | **Jun 2025 – Present**
+
+- 🤖 Developing enterprise AI applications using **LLMs, RAG, LangChain, LangGraph & FastAPI**
+- ⚡ Building AI automation solutions with **Microsoft Copilot Studio, n8n & Power Automate**
+- ☁️ Integrating enterprise systems using **Azure, Microsoft Graph API, Zoho & REST APIs**
+- 🚀 Designing scalable AI agents and production-ready backend services
 
 ### ⚙️ AI Automation
 
