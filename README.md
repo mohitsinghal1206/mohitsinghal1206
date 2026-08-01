@@ -70,6 +70,7 @@ Built an **autonomous multi-agent research platform** capable of searching, read
 > **Tech Stack:** Microsoft Copilot Studio • GPT-4.1-mini • Power Automate • React • Microsoft Graph API • Azure DevOps • Zoho People
 
 Developed an enterprise **RAG-based employee assessment platform** that generates dynamic policy-based assessments from Azure DevOps Wiki and HR knowledge bases. Integrated Microsoft Graph, Zoho People, Power Automate, and React dashboards for automated assessments, compliance reporting, and employee analytics.
+
 ---
 
 # ⚡ AI Automation Projects
@@ -91,6 +92,7 @@ Developed an enterprise **RAG-based employee assessment platform** that generate
 
   
 ---
+
 # 📈 Quantitative Trading & Algorithmic Trading
 
 Building an end-to-end algorithmic trading platform focused on **automation, execution, and quantitative research**.
@@ -104,6 +106,7 @@ Building an end-to-end algorithmic trading platform focused on **automation, exe
 - 📈 Quantitative Strategy Research & Backtesting
 - 🛡️ Risk Management & Position Sizing
 - ☁️ Cloud Deployment & Monitoring
+  
 ---
 
 # 🎓 Education
