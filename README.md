@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u//mohitsinghal1206?v=4"
+       width="180"
+       style="border-radius:50%;" />
+</p>
 <h1 align="center">Hi 👋, I'm Mohit Singhal</h1>
 
 <h3 align="center">
@@ -52,15 +57,20 @@ Building **enterprise AI applications, AI Agents, RAG pipelines, and intelligent
 
 # Projects
 
-### [AI WhatsApp Customer Support Agent](https://app.notion.com/p/AI-WhatsApp-Customer-Support-Lead-Qualification-System-3721ed779b4d80e28cb5e1c3a0cd480e?source=copy_link)
+### 🤖 AI WhatsApp Customer Support Agent
+
+[![Documentation](https://img.shields.io/badge/📄-View%20Documentation-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/AI-WhatsApp-Customer-Support-Lead-Qualification-System-3721ed779b4d80e28cb5e1c3a0cd480e?source=copy_link)
 
 > **Tech Stack:** GPT-4.1-mini • n8n • PostgreSQL • Pinecone • WATI API • Webhooks • Google Sheets • Gmail
 
-Designed and developed a **multi-agent AI customer support and lead qualification platform** powered by LLMs and RAG. Implemented semantic search using **text-embedding-3-large**, automated follow-ups, shared agent memory, AI-to-human handoff, monitoring, and production-grade reliability workflows.
+Designed and developed a **multi-agent AI customer support and lead qualification platform** powered by LLMs and RAG. Implemented semantic search, automated follow-ups, shared agent memory, AI-to-human handoff, monitoring, and production-grade reliability workflows.
 
 ---
 
-### [DeepResearch Agent](https://deepresearch-agent-ew4cwegqrcdoplftnz26iv.streamlit.app/)
+### 🧠 DeepResearch Agent
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohitsinghal1206/DeepResearch-Agent)
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://deepresearch-agent-ew4cwegqrcdoplftnz26iv.streamlit.app/)
 
 > **Tech Stack:** Python • LangChain • LangGraph • Gemini • Tavily API • BeautifulSoup • Streamlit
 
@@ -68,7 +78,9 @@ Built an **autonomous multi-agent research platform** capable of searching, read
 
 ---
 
-### [AI Employee Assessment Agent](https://app.notion.com/p/AI-Powered-Employee-Assessment-Compliance-Agent-3721ed779b4d803d96f6cb5106724150?source=copy_link)
+### 🏢 AI Employee Assessment Agent
+
+[![Documentation](https://img.shields.io/badge/📄-View%20Documentation-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/AI-Powered-Employee-Assessment-Compliance-Agent-3721ed779b4d803d96f6cb5106724150?source=copy_link)
 
 > **Tech Stack:** Microsoft Copilot Studio • GPT-4.1-mini • Power Automate • React • Microsoft Graph API • Azure DevOps • Zoho People
 
