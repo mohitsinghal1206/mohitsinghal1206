@@ -5,7 +5,7 @@ AI Engineer • AI Automation Engineer • Building Production-Ready AI Systems
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer;AI+Automation+Engineer;LLMs+%7C+Agentic+AI+%7C+RAG;LangChain+%7C+LangGraph+%7C+FastAPI;Building+Enterprise+AI+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;AI+Automation+Engineer;LLMs+%7C+Agentic+AI+%7C+RAG;LangChain+%7C+LangGraph+%7C+FastAPI;Building+Enterprise+AI+Applications" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ AI Engineer • AI Automation Engineer • Building Production-Ready AI Systems
 
 # 💫 About Me
 
-I'm an **AI Engineer** specializing in **Generative AI, Agentic AI, AI Automation, and Retrieval-Augmented Generation (RAG)**.
+I'm an **AI Engineer** specializing in **Generative AI, AI Agents, AI Automation, and Retrieval-Augmented Generation (RAG)**.
 
 I build production-ready AI systems that automate real-world business workflows using **LLMs, LangChain, LangGraph, FastAPI, Python, Azure, and modern cloud technologies**.
 
@@ -77,12 +77,14 @@ I build production-ready AI systems that automate real-world business workflows 
 
 <img src="https://cdn.simpleicons.org/n8n" height="18"/> **n8n** •
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-copilot.svg" height="18"/> **Microsoft Copilot Studio** •
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" height="18"/> **Power Automate**
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" height="18"/> **Power Automate** •
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mcp.png" height="18"/> **MCP** •
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/webhookd.svg" height="18"/> **Webhooks**
 
-- Model Context Protocol (MCP)
-- REST APIs
-- Webhooks
 - Enterprise Workflow Automation
+- REST APIs
+- Tool Calling
+- AI Integrations
 
 ---
 
@@ -105,14 +107,16 @@ I build production-ready AI systems that automate real-world business workflows 
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://cdn.simpleicons.org/microsoftazure" height="18"/> **Microsoft Azure** •
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="18"/> **Microsoft Azure** •
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-devops.svg" height="18"/> **Azure DevOps** •
+<img src="https://cdn.simpleicons.org/docker" height="18"/> **Docker** •
 <img src="https://cdn.simpleicons.org/git" height="18"/> **Git** •
 <img src="https://cdn.simpleicons.org/github" height="18"/> **GitHub** •
 <img src="https://cdn.simpleicons.org/linux" height="18"/> **Linux**
 
-- Azure DevOps
-- Docker
 - CI/CD
+- Cloud Deployment
+- Version Control
 
 ---
 
@@ -120,7 +124,7 @@ I build production-ready AI systems that automate real-world business workflows 
 
 ## 🤖 AI WhatsApp Customer Support Agent
 
-Enterprise AI customer support platform built using **GPT-4.1-mini, Pinecone, PostgreSQL, n8n, WATI APIs, and RAG**.
+Enterprise AI customer support platform using **GPT-4.1-mini, Pinecone, PostgreSQL, n8n, WATI APIs, and RAG**.
 
 ---
 
@@ -144,23 +148,22 @@ Enterprise workflow automation using **LLMs, n8n, APIs, Webhooks, Microsoft 365,
 
 # 🎯 Current Focus
 
-- 🤖 Enterprise AI Agents
-- ⚡ AI Automation
-- 🧠 Agentic AI
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🔗 LangGraph
-- ☁️ Azure AI
-- 🚀 FastAPI
-- 📦 MCP
-- 🏗️ Scalable AI Infrastructure
+- 🤖 Building Enterprise AI Agents
+- <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="16"/> Multi-Agent Systems
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mcp.png" height="16"/> Model Context Protocol (MCP)
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" height="16"/> AI Workflow Automation
+- <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="16"/> Azure AI
+- <img src="https://cdn.simpleicons.org/fastapi" height="16"/> FastAPI
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🏗️ Production AI Infrastructure
 
 ---
 
 # 🏆 Certifications
 
-🏅 Microsoft Certified: Azure AI Fundamentals (AI-900)
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="18"/> **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 
-🏅 AWS Cloud Practitioner
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" height="18"/> **AWS Cloud Practitioner**
 
 ---
 
