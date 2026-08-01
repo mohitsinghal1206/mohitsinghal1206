@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Mohit Singhal</h1>
 
 <h3 align="center">
@@ -5,7 +6,7 @@ AI Engineer • AI Automation Engineer • Building Production-Ready AI Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;AI+Automation+Engineer;LLMs+%7C+RAG+%7C+Agentic+AI;LangChain+%7C+LangGraph+%7C+FastAPI;Building+Production+Ready+AI+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer;AI+Automation+Engineer;LLMs+%7C+Agentic+AI+%7C+RAG;LangChain+%7C+LangGraph+%7C+FastAPI;Building+Enterprise+AI+Applications" />
 </p>
 
 <p align="center">
@@ -16,18 +17,16 @@ AI Engineer • AI Automation Engineer • Building Production-Ready AI Systems
 
 # 💫 About Me
 
-I'm an **AI Engineer** specializing in **Generative AI, Agentic AI, AI Automation, and Retrieval-Augmented Generation (RAG)**.
+I'm an **AI Engineer** specializing in **Generative AI, AI Agents, AI Automation, and Retrieval-Augmented Generation (RAG)**.
 
-I build production-ready AI applications that automate real business workflows using **LLMs, LangChain, LangGraph, FastAPI, Python, Azure, and modern cloud technologies**.
-
-Currently focused on building enterprise AI agents, intelligent automation platforms, and scalable backend systems.
+I enjoy building production-ready AI systems that automate real business workflows using **LLMs, LangChain, LangGraph, FastAPI, Python, Azure, and modern cloud technologies**.
 
 - 🤖 Building Enterprise AI Agents
 - ⚡ Developing AI Automation Solutions
-- 🚀 Creating Production-Ready LLM Applications
-- 🌱 Exploring Multi-Agent Systems, MCP & AI Infrastructure
-- 💬 Ask me about Python, FastAPI, LangChain, LangGraph, RAG, AI Agents & Prompt Engineering
-- 🤝 Open to collaborating on AI & Open Source projects
+- 🚀 Building Production-Ready LLM Applications
+- 🌱 Exploring Agentic AI, MCP & Multi-Agent Systems
+- 💬 Ask me about **Python, FastAPI, LangChain, LangGraph, RAG, AI Agents & Prompt Engineering**
+- 🤝 Open to collaborating on AI & Open Source Projects
 - 📫 **mohitsinghal2003.ms@gmail.com**
 
 ---
@@ -54,71 +53,71 @@ Currently focused on building enterprise AI agents, intelligent automation platf
 
 # 💻 Tech Stack
 
-## 🤖 AI & LLM
+<p align="center">
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-
-<img src="https://cdn.simpleicons.org/openai" height="45"/>
-
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" height="45"/>
-
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" height="45"/>
-
-<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/google-gemini.png" height="45"/>
-
-<img src="https://cdn.simpleicons.org/pinecone" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,azure,git,github,linux,postman,react" />
 
 </p>
 
----
+<p align="center">
 
-## ⚙️ AI Automation
+<img src="https://cdn.simpleicons.org/openai" height="45" alt="OpenAI"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/n8n" height="45" alt="n8n"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pinecone" height="45" alt="Pinecone"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoft" height="45" alt="Microsoft"/>&nbsp;&nbsp;
 
-<p align="left">
-
-<img src="https://cdn.simpleicons.org/n8n" height="45"/>
-
-<img src="https://cdn.simpleicons.org/microsoft" height="45"/>
-
-<img src="https://cdn.simpleicons.org/powerautomate" height="45"/>
-
-</p>
-
----
-
-## 🚀 Backend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=postman" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-
-<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+<!-- Replace these with official SVGs stored inside assets/ -->
+<img src="./assets/langchain.svg" height="45" alt="LangChain"/>&nbsp;&nbsp;
+<img src="./assets/langgraph.svg" height="45" alt="LangGraph"/>&nbsp;&nbsp;
+<img src="./assets/gemini.svg" height="45" alt="Gemini"/>&nbsp;&nbsp;
+<img src="./assets/copilot-studio.svg" height="45" alt="Copilot Studio"/>
 
 </p>
 
----
+### 🤖 AI & Generative AI
 
-## ☁️ Cloud
+- Large Language Models (LLMs)
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- LangChain
+- LangGraph
+- OpenAI
+- Gemini
+- Vector Databases
+- Pinecone
 
-<p align="left">
+### ⚙️ AI Automation
 
-<img src="https://skillicons.dev/icons?i=azure" height="45"/>
+- n8n
+- Microsoft Copilot Studio
+- Power Automate
+- MCP (Model Context Protocol)
+- REST APIs
+- Webhooks
+- Enterprise Workflow Automation
 
-</p>
+### 🚀 Backend Development
+
+- Python
+- FastAPI
+- PostgreSQL
+- MySQL
+- Streamlit
+- Microservices
+- OAuth
+- API Integrations
+
+### ☁️ Cloud & DevOps
+
+- Microsoft Azure
+- Docker
+- Git
+- GitHub
+- Linux
+- Azure DevOps
+- CI/CD
 
 ---
 
@@ -126,46 +125,39 @@ Currently focused on building enterprise AI agents, intelligent automation platf
 
 ## 🤖 AI WhatsApp Customer Support Agent
 
-- GPT-4.1-mini
-- Pinecone
-- PostgreSQL
-- n8n
-- WATI API
-- RAG Pipeline
+Enterprise AI customer support platform built using **GPT-4.1-mini, Pinecone, PostgreSQL, n8n, WATI APIs, and RAG**.
 
 ---
 
 ## 🧠 DeepResearch Agent
 
-- LangGraph
-- LangChain
-- Gemini
-- Streamlit
-- Autonomous Multi-Agent Research
+Autonomous multi-agent research platform built with **LangGraph, LangChain, Gemini, Streamlit, and tool-calling workflows**.
 
 ---
 
 ## 🏢 AI Employee Assessment Agent
 
-- Microsoft Copilot Studio
-- Azure DevOps
-- Microsoft Graph API
-- Power Automate
-- React
-- Enterprise RAG
+Enterprise assessment platform using **Microsoft Copilot Studio, Azure DevOps, Microsoft Graph APIs, React, and RAG**.
+
+---
+
+## ⚡ AI Workflow Automation
+
+AI-powered workflow automation using **LLMs, n8n, APIs, Webhooks, Microsoft 365, and enterprise integrations**.
 
 ---
 
 # 🎯 Current Focus
 
-- 🤖 AI Agents
-- 🧠 Agentic AI
+- 🤖 Enterprise AI Agents
 - ⚡ AI Automation
+- 🧠 Agentic AI
 - 🔍 Retrieval-Augmented Generation (RAG)
-- 🚀 FastAPI
-- ☁️ Azure AI
 - 🔗 LangGraph
-- 📦 Model Context Protocol (MCP)
+- ☁️ Azure AI
+- 🚀 FastAPI
+- 📦 MCP
+- 🏗️ Scalable AI Infrastructure
 
 ---
 
@@ -199,6 +191,6 @@ Currently focused on building enterprise AI agents, intelligent automation platf
 
 ### ⭐ Thanks for visiting my profile!
 
-Building intelligent systems with AI, Automation, and modern software engineering.
+**Building intelligent systems with AI, Automation & Modern Software Engineering**
 
 </div>
