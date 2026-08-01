@@ -43,6 +43,22 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 | 🚀 **Backend** | <img src="https://cdn.simpleicons.org/python" height="16"/> **Python** • <img src="https://cdn.simpleicons.org/fastapi" height="16"/> **FastAPI** • <img src="https://cdn.simpleicons.org/postgresql" height="16"/> **PostgreSQL** • <img src="https://cdn.simpleicons.org/mysql" height="16"/> **MySQL** • Streamlit • REST APIs • OAuth |
 | ☁️ **Cloud** | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="16"/> **Azure** • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-devops.svg" height="16"/> **Azure DevOps** • <img src="https://cdn.simpleicons.org/git" height="16"/> **Git** • <img src="https://cdn.simpleicons.org/github" height="16"/> **GitHub** |
 
+---
+
+# Professional Experience
+
+### Software Engineer • CodeStore Technologies Pvt. Ltd.
+📍 Noida, India • **Jun 2025 – Present**
+
+Building enterprise AI applications and automation platforms using **LLMs, LangChain, LangGraph, FastAPI, Microsoft Copilot Studio, n8n, Azure, Microsoft Graph APIs and RAG**.
+
+- 🤖 Enterprise AI Agents
+- ⚡ AI Automation
+- ☁️ Azure & Microsoft Ecosystem Integrations
+- 🚀 Production-ready AI Applications
+
+---
+
 # 🤖 AI Engineering Projects
 
 ### 🤖 AI WhatsApp Customer Support Agent
@@ -97,20 +113,6 @@ Building an end-to-end algorithmic trading platform focused on **automation, exe
 - 📈 Quantitative Strategy Research & Backtesting
 - 🛡️ Risk Management & Position Sizing
 - ☁️ Cloud Deployment & Monitoring
----
-
-# Professional Experience
-
-### Software Engineer • CodeStore Technologies Pvt. Ltd.
-📍 Noida, India • **Jun 2025 – Present**
-
-Building enterprise AI applications and automation platforms using **LLMs, LangChain, LangGraph, FastAPI, Microsoft Copilot Studio, n8n, Azure, Microsoft Graph APIs and RAG**.
-
-- 🤖 Enterprise AI Agents
-- ⚡ AI Automation
-- ☁️ Azure & Microsoft Ecosystem Integrations
-- 🚀 Production-ready AI Applications
-
 ---
 
 # 🎓 Education
