@@ -76,13 +76,6 @@ Developed an enterprise **RAG-based employee assessment platform** that generate
 
 ---
 
-### AI Employee Assessment Agent
-> **Tech Stack:** Microsoft Copilot Studio • GPT-4.1-mini • Power Automate • React • Microsoft Graph API • Azure DevOps • Zoho People
-
-Developed an enterprise **RAG-based employee assessment platform** that generates dynamic policy-based assessments from Azure DevOps Wiki and HR knowledge bases. Integrated Microsoft Graph, Zoho People, Power Automate, and React dashboards for automated assessments, compliance reporting, and employee analytics.
-
----
-
 # ⚡ AI Automation Projects
 
 | Project | Description |
