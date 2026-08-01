@@ -43,7 +43,7 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 | Project | Tech Stack |
 |---------|------------|
@@ -60,19 +60,3 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 |--------------|--------|
 | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="16"/> Microsoft Azure AI Fundamentals (AI-900) | ✅ |
 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" height="16"/> AWS Cloud Practitioner | ✅ |
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitsinghal1206&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsinghal1206&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsinghal1206&theme=tokyonight&hide_border=true"/>
-</p>
