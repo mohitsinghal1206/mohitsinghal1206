@@ -38,7 +38,7 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 
 | Domain | Technologies |
 |---------|--------------|
-| 🤖 **AI & LLM** | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" height="16"/> **OpenAI** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="16"/> **LangChain** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="16"/> **LangGraph** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/gemini-color.png" height="16"/> **Gemini** • <img src="https://cdn.simpleicons.org/pinecone" height="16"/> **Pinecone** • Prompt Engineering • RAG |
+| 🤖 **AI & LLM** | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" height="16"/> **OpenAI** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="16"/> **LangChain** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="16"/> **LangGraph** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/gemini-color.png" height="16"/> **Gemini** • **Pinecone** • Prompt Engineering • AI Agents • RAG |
 | ⚙️ **Automation** | <img src="https://cdn.simpleicons.org/n8n" height="16"/> **n8n** • <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-copilot.svg" height="16"/> **Copilot Studio** • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" height="16"/> **Power Automate** • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mcp.png" height="16"/> **MCP** • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/webhookd.svg" height="16"/> **Webhooks** |
 | 🚀 **Backend** | <img src="https://cdn.simpleicons.org/python" height="16"/> **Python** • <img src="https://cdn.simpleicons.org/fastapi" height="16"/> **FastAPI** • <img src="https://cdn.simpleicons.org/postgresql" height="16"/> **PostgreSQL** • <img src="https://cdn.simpleicons.org/mysql" height="16"/> **MySQL** • Streamlit • REST APIs • OAuth |
 | ☁️ **Cloud** | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="16"/> **Azure** • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-devops.svg" height="16"/> **Azure DevOps** • <img src="https://cdn.simpleicons.org/git" height="16"/> **Git** • <img src="https://cdn.simpleicons.org/github" height="16"/> **GitHub** |
@@ -70,7 +70,9 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 
 - <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="18"/> **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/mohitsinghal-4225/credentials/1e5d8522d181508d)**
 
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" height="18"/> **[AWS Cloud Practitioner](https://www.udemy.com/certificate/UC-cd794411-cb70-4324-b94a-3c86b907fd19/)**
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/udemy-light.svg" height="18"/> **[AWS Certified Cloud Practitioner (Training)](https://www.udemy.com/certificate/UC-cd794411-cb70-4324-b94a-3c86b907fd19/)**
+
+  
 ---
 # 📈 Quantitative Trading & Algorithmic Trading
 
@@ -103,8 +105,22 @@ Building enterprise AI applications and automation platforms using **LLMs, LangC
 
 # 🎓 Education
 
-**B.Tech – Computer Science & Engineering**
+🎓 **B.Tech in Computer Science & Engineering** • Uttaranchal University • 2021–2025 • **CGPA: 8.5**
 
-Uttaranchal University, Dehradun
+---
 
-🎓 Graduated **2025**
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitsinghal1206&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsinghal1206&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsinghal1206&theme=tokyonight&hide_border=true"/>
+
+</p>
