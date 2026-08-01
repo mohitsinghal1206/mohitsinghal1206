@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Singhal</h1>
 
 <h3 align="center">
-AI Engineer • LLMs • Agentic AI • AI Automation
+AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 </h3>
 
 <p align="center">
@@ -36,7 +36,7 @@ AI Engineer • LLMs • Agentic AI • AI Automation
 
 | Domain | Technologies |
 |---------|--------------|
-| 🤖 **AI & LLM** | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" height="16"/> **OpenAI** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="16"/> **LangChain** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="16"/> **LangGraph** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/gemini-color.png" height="16"/> **Gemini** • <img src="https://cdn.simpleicons.org/pinecone" height="16"/> **Pinecone** • RAG • AI Agents • Prompt Engineering |
+| 🤖 **AI & LLM** | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openai-light.svg" height="16"/> **OpenAI** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langchain-color.svg" height="16"/> **LangChain** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/langgraph-color.svg" height="16"/> **LangGraph** • <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/light/gemini-color.png" height="16"/> **Gemini** • <img src="https://cdn.simpleicons.org/pinecone" height="16"/> **Pinecone** • Prompt Engineering |
 | ⚙️ **Automation** | <img src="https://cdn.simpleicons.org/n8n" height="16"/> **n8n** • <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-copilot.svg" height="16"/> **Copilot Studio** • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-power-automate.svg" height="16"/> **Power Automate** • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/mcp.png" height="16"/> **MCP** • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/webhookd.svg" height="16"/> **Webhooks** |
 | 🚀 **Backend** | <img src="https://cdn.simpleicons.org/python" height="16"/> **Python** • <img src="https://cdn.simpleicons.org/fastapi" height="16"/> **FastAPI** • <img src="https://cdn.simpleicons.org/postgresql" height="16"/> **PostgreSQL** • <img src="https://cdn.simpleicons.org/mysql" height="16"/> **MySQL** • Streamlit • REST APIs • OAuth |
 | ☁️ **Cloud** | <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="16"/> **Azure** • <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/azure-devops.svg" height="16"/> **Azure DevOps** • <img src="https://cdn.simpleicons.org/git" height="16"/> **Git** • <img src="https://cdn.simpleicons.org/github" height="16"/> **GitHub** |
