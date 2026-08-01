@@ -91,6 +91,21 @@ Current work includes:
 | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" height="16"/> AWS Cloud Practitioner | ✅ |
 
 ---
+# 📈 Quantitative Trading & Algorithmic Trading
+
+Building an end-to-end algorithmic trading platform focused on **automation, execution, and quantitative research**.
+
+**Tech Stack:** Python • FastAPI • Upstox APIs • WebSockets • PostgreSQL • Azure VM • Linux • OAuth2
+
+### Current Work
+
+- 📊 Live Market Data Processing
+- ⚡ Automated Order Execution
+- 📈 Quantitative Strategy Research & Backtesting
+- 🛡️ Risk Management & Position Sizing
+- ☁️ Cloud Deployment & Monitoring
+- 
+---
 
 # 💼 Professional Experience
 
