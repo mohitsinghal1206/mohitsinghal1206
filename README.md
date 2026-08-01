@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Singhal</h1>
 
 <h3 align="center">
-AI Engineer • LLMs • Agentic AI • AI Automation • RAG
+AI Engineer • LLMs • Agentic AI • AI Automation • RAG • Algorithmic Trading
 </h3>
 
 <p align="center">
