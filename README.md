@@ -29,8 +29,14 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mohitsinghal1206&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+---
 
+# 💼 Professional Experience
 
+### Software Engineer • CodeStore Technologies Pvt. Ltd.
+📍 Noida, India • **Jun 2025 – Present**
+
+Building **enterprise AI applications, AI Agents, RAG pipelines, and intelligent automation solutions** using **Python, FastAPI, LangChain, LangGraph, Microsoft Copilot Studio, Azure, n8n, and Microsoft Graph APIs**.
 
 ---
 
@@ -45,37 +51,23 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 
 ---
 
-# Professional Experience
+# Projects
 
-### Software Engineer • CodeStore Technologies Pvt. Ltd.
-📍 Noida, India • **Jun 2025 – Present**
-
-Building enterprise AI applications and automation platforms using **LLMs, LangChain, LangGraph, FastAPI, Microsoft Copilot Studio, n8n, Azure, Microsoft Graph APIs and RAG**.
-
-- 🤖 Enterprise AI Agents
-- ⚡ AI Automation
-- ☁️ Azure & Microsoft Ecosystem Integrations
-- 🚀 Production-ready AI Applications
-
----
-
-# 🤖 AI Engineering Projects
-
-### 🤖 AI WhatsApp Customer Support Agent
+### AI WhatsApp Customer Support Agent
 > **Tech Stack:** GPT-4.1-mini • n8n • PostgreSQL • Pinecone • WATI API • Webhooks • Google Sheets • Gmail
 
 Designed and developed a **multi-agent AI customer support and lead qualification platform** powered by LLMs and RAG. Implemented semantic search using **text-embedding-3-large**, automated follow-ups, shared agent memory, AI-to-human handoff, monitoring, and production-grade reliability workflows to reduce manual lead qualification and support effort.
 
 ---
 
-### 🧠 DeepResearch Agent
+### DeepResearch Agent
 > **Tech Stack:** Python • LangChain • LangGraph • Gemini • Tavily API • BeautifulSoup • Streamlit
 
 Built an **autonomous multi-agent research platform** capable of searching, reading, critiquing, and generating research reports. Designed a **4-stage Agentic AI workflow** using LangGraph and LCEL with tool-calling, web search, scraping, and a Streamlit dashboard for real-time interaction.
 
 ---
 
-### 🏢 AI Employee Assessment Agent
+### AI Employee Assessment Agent
 > **Tech Stack:** Microsoft Copilot Studio • GPT-4.1-mini • Power Automate • React • Microsoft Graph API • Azure DevOps • Zoho People
 
 Developed an enterprise **RAG-based employee assessment platform** that generates dynamic policy-based assessments from Azure DevOps Wiki and HR knowledge bases. Integrated Microsoft Graph, Zoho People, Power Automate, and React dashboards for automated assessments, compliance reporting, and employee analytics.
