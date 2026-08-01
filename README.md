@@ -52,17 +52,27 @@ Building **enterprise AI applications, AI Agents, RAG pipelines, and intelligent
 
 # Projects
 
-### AI WhatsApp Customer Support Agent
+### [AI WhatsApp Customer Support Agent](https://app.notion.com/p/AI-WhatsApp-Customer-Support-Lead-Qualification-System-3721ed779b4d80e28cb5e1c3a0cd480e?source=copy_link)
+
 > **Tech Stack:** GPT-4.1-mini • n8n • PostgreSQL • Pinecone • WATI API • Webhooks • Google Sheets • Gmail
 
-Designed and developed a **multi-agent AI customer support and lead qualification platform** powered by LLMs and RAG. Implemented semantic search using **text-embedding-3-large**, automated follow-ups, shared agent memory, AI-to-human handoff, monitoring, and production-grade reliability workflows to reduce manual lead qualification and support effort.
+Designed and developed a **multi-agent AI customer support and lead qualification platform** powered by LLMs and RAG. Implemented semantic search using **text-embedding-3-large**, automated follow-ups, shared agent memory, AI-to-human handoff, monitoring, and production-grade reliability workflows.
 
 ---
 
-### DeepResearch Agent
+### [DeepResearch Agent](https://deepresearch-agent-ew4cwegqrcdoplftnz26iv.streamlit.app/)
+
 > **Tech Stack:** Python • LangChain • LangGraph • Gemini • Tavily API • BeautifulSoup • Streamlit
 
-Built an **autonomous multi-agent research platform** capable of searching, reading, critiquing, and generating research reports. Designed a **4-stage Agentic AI workflow** using LangGraph and LCEL with tool-calling, web search, scraping, and a Streamlit dashboard for real-time interaction.
+Built an **autonomous multi-agent research platform** capable of searching, reading, critiquing, and generating research reports. Designed a **4-stage Agentic AI workflow** using LangGraph and LCEL with tool-calling, web search, scraping, and a Streamlit dashboard.
+
+---
+
+### [AI Employee Assessment Agent](https://app.notion.com/p/AI-Powered-Employee-Assessment-Compliance-Agent-3721ed779b4d803d96f6cb5106724150?source=copy_link)
+
+> **Tech Stack:** Microsoft Copilot Studio • GPT-4.1-mini • Power Automate • React • Microsoft Graph API • Azure DevOps • Zoho People
+
+Developed an enterprise **RAG-based employee assessment platform** that generates dynamic policy-based assessments from Azure DevOps Wiki and HR knowledge bases. Integrated Microsoft Graph, Zoho People, Power Automate, and React dashboards for automated assessments, compliance reporting, and employee analytics.
 
 ---
 
@@ -118,10 +128,6 @@ Building an end-to-end algorithmic trading platform focused on **automation, exe
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitsinghal1206&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsinghal1206&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
