@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Singhal</h1>
 
 <h3 align="center">
-AI Engineer • AI Automation Engineer • Building Production-Ready AI Systems
+AI Engineer • AI Automation Engineer • Building Business-Ready AI Systems
 </h3>
 
 <p align="center">
