@@ -32,7 +32,7 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 
 
 
-# 💻 Tech Stack
+#  Tech Stack
 
 | Domain | Technologies |
 |---------|--------------|
@@ -43,7 +43,7 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 
 ---
 
-# 🚀 Projects
+#  Projects
 
 | Project | Tech Stack |
 |---------|------------|
