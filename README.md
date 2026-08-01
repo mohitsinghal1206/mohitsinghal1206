@@ -85,10 +85,9 @@ Current work includes:
 
 # 🏆 Certifications
 
-| Certification | Credential |
-|--------------|------------|
-| <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="16"/> **Microsoft Certified: Azure AI Fundamentals (AI-900)** | [View Credential](https://learn.microsoft.com/en-us/users/mohitsinghal-4225/credentials/1e5d8522d181508d) |
-| <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" height="16"/> **AWS Cloud Practitioner** | [View Certificate](https://www.udemy.com/certificate/UC-cd794411-cb70-4324-b94a-3c86b907fd19/) |
+- <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/azure-color.svg" height="18"/> **Microsoft Certified: Azure AI Fundamentals (AI-900)** • [Credential](https://learn.microsoft.com/en-us/users/mohitsinghal-4225/credentials/1e5d8522d181508d)
+
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/aws-light.svg" height="18"/> **AWS Cloud Practitioner** • [Certificate](https://www.udemy.com/certificate/UC-cd794411-cb70-4324-b94a-3c86b907fd19/)
 
 ---
 # 📈 Quantitative Trading & Algorithmic Trading
