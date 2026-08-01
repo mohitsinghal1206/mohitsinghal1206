@@ -1,8 +1,26 @@
 <h1 align="center">Hi 👋, I'm Mohit Singhal</h1>
 
 <h3 align="center">
-AI Engineer • AI Automation Engineer • Building Production-Ready AI Systems
+AI Engineer • LLMs • Agentic AI • AI Automation
 </h3>
+
+<p align="center">
+
+<a href="https://github.com/mohitsinghal1206">
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/mohit-singhal-600326226">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:mohitsinghal2003.ms@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" height="42"/>
+</a>
+
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;AI+Automation+Engineer;LLMs+%7C+Agentic+AI+%7C+RAG;LangChain+%7C+LangGraph+%7C+FastAPI;Building+Enterprise+AI+Applications"/>
@@ -10,40 +28,6 @@ AI Engineer • AI Automation Engineer • Building Production-Ready AI Systems
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitsinghal1206&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-# 💫 About Me
-
-AI Engineer specializing in **Generative AI, Agentic AI, AI Automation, LLMs and Retrieval-Augmented Generation (RAG).**
-
-I build production-ready AI applications using **LangChain, LangGraph, FastAPI, Azure, Microsoft Copilot Studio, n8n and modern cloud technologies.**
-
-- 🤖 Building Enterprise AI Agents
-- ⚡ Developing AI Automation Solutions
-- 🌱 Exploring MCP & Multi-Agent Systems
-- 💬 Ask me about **Python, FastAPI, LangChain, LangGraph, RAG & AI Agents**
-- 📫 **mohitsinghal2003.ms@gmail.com**
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/mohitsinghal1206">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
-</a>
-
-<a href="https://linkedin.com/in/mohit-singhal-600326226">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
-
-<a href="mailto:mohitsinghal2003.ms@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png" height="42"/>
-</a>
-
 </p>
 
 ---
