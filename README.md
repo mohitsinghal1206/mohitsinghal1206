@@ -34,7 +34,7 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 | Domain | Technologies |
 |---------|--------------|
@@ -45,7 +45,7 @@ AI Engineer • LLMs • Agentic AI • AI Automation • RAG
 
 ---
 
-# 🤖 AI Engineering Projects
+# AI Engineering Projects
 
 | Project | Tech Stack |
 |---------|------------|
@@ -87,7 +87,7 @@ Building an end-to-end algorithmic trading platform focused on **automation, exe
 - ☁️ Cloud Deployment & Monitoring
 ---
 
-# 💼 Professional Experience
+# Professional Experience
 
 ### Software Engineer • CodeStore Technologies Pvt. Ltd.
 📍 Noida, India • **Jun 2025 – Present**
