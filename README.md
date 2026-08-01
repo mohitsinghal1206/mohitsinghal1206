@@ -103,19 +103,19 @@ Developed an enterprise **RAG-based employee assessment platform** that generate
   
 ---
 
-# 📈 Quantitative Trading & Algorithmic Trading
+# 🚀 Personal Engineering Project
 
-Building an end-to-end algorithmic trading platform focused on **automation, execution, and quantitative research**.
+### 📈 Algorithmic Trading Platform
+
+Beyond AI engineering, I enjoy building software systems in other domains. I'm currently developing an end-to-end algorithmic trading platform focused on **automation, backend architecture, and quantitative research**.
 
 **Tech Stack:** Python • FastAPI • Upstox APIs • WebSockets • PostgreSQL • Azure VM • Linux • OAuth2
 
-### Current Work
-
 - 📊 Live Market Data Processing
 - ⚡ Automated Order Execution
-- 📈 Quantitative Strategy Research & Backtesting
-- 🛡️ Risk Management & Position Sizing
-- ☁️ Cloud Deployment & Monitoring
+- 📈 Strategy Backtesting
+- 🛡️ Risk Management
+- ☁️ Production Deployment
   
 ---
 
