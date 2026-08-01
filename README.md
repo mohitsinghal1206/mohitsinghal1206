@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u//mohitsinghal1206?v=4"
-       width="180"
-       style="border-radius:50%;" />
-</p>
 <h1 align="center">Hi 👋, I'm Mohit Singhal</h1>
 
 <h3 align="center">
