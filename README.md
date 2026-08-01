@@ -5,20 +5,20 @@ AI Engineer • AI Automation Engineer • Building Production-Ready AI Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;AI+Automation+Engineer;LLMs+%7C+Agentic+AI+%7C+RAG;LangChain+%7C+LangGraph+%7C+FastAPI;Building+Enterprise+AI+Applications"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer;AI+Automation+Engineer;LLMs+%7C+Agentic+AI+%7C+RAG;LangChain+%7C+LangGraph+%7C+FastAPI;Building+Enterprise+AI+Applications" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohitsinghal1206&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=mohitsinghal1206&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 💫 About Me
 
-I'm an **AI Engineer** specializing in **Generative AI, Agentic AI, AI Automation, and Retrieval-Augmented Generation (RAG)**.
+I'm an **AI Engineer** specializing in **Generative AI, AI Agents, AI Automation, and Retrieval-Augmented Generation (RAG)**.
 
-I build production-ready AI applications that automate real-world business workflows using **LLMs, LangChain, LangGraph, FastAPI, Python, Azure, and Cloud Technologies**.
+I enjoy building production-ready AI systems that automate real business workflows using **LLMs, LangChain, LangGraph, FastAPI, Python, Azure, and modern cloud technologies**.
 
 - 🤖 Building Enterprise AI Agents
 - ⚡ Developing AI Automation Solutions
@@ -52,54 +52,71 @@ I build production-ready AI applications that automate real-world business workf
 
 # 💻 Tech Stack
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,azure,git,github,linux,postman,react" />
+
+</p>
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/openai" height="45" alt="OpenAI"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/n8n" height="45" alt="n8n"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pinecone" height="45" alt="Pinecone"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/microsoft" height="45" alt="Microsoft"/>&nbsp;&nbsp;
+
+<!-- Replace these with official SVGs stored inside assets/ -->
+<img src="./assets/langchain.svg" height="45" alt="LangChain"/>&nbsp;&nbsp;
+<img src="./assets/langgraph.svg" height="45" alt="LangGraph"/>&nbsp;&nbsp;
+<img src="./assets/gemini.svg" height="45" alt="Gemini"/>&nbsp;&nbsp;
+<img src="./assets/copilot-studio.svg" height="45" alt="Copilot Studio"/>
+
+</p>
+
 ### 🤖 AI & Generative AI
 
-<img src="https://cdn.simpleicons.org/openai" height="18"/> **OpenAI** •
-🐍 **Python** •
-🦜 **LangChain** •
-🕸️ **LangGraph** •
-✨ **Gemini** •
-📚 **RAG** •
-🧠 **AI Agents** •
-🎯 **Prompt Engineering** •
-🌲 **Pinecone** •
-🗄️ **Vector Databases**
-
----
+- Large Language Models (LLMs)
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Prompt Engineering
+- LangChain
+- LangGraph
+- OpenAI
+- Gemini
+- Vector Databases
+- Pinecone
 
 ### ⚙️ AI Automation
 
-<img src="https://cdn.simpleicons.org/n8n" height="18"/> **n8n** •
-<img src="https://cdn.simpleicons.org/microsoft" height="18"/> **Microsoft Copilot Studio** •
-⚡ **Power Automate** •
-🔗 **REST APIs** •
-🪝 **Webhooks** •
-📦 **MCP** •
-🔄 **Enterprise Workflow Automation**
-
----
+- n8n
+- Microsoft Copilot Studio
+- Power Automate
+- MCP (Model Context Protocol)
+- REST APIs
+- Webhooks
+- Enterprise Workflow Automation
 
 ### 🚀 Backend Development
 
-<img src="https://cdn.simpleicons.org/python" height="18"/> **Python** •
-<img src="https://cdn.simpleicons.org/fastapi" height="18"/> **FastAPI** •
-<img src="https://cdn.simpleicons.org/postgresql" height="18"/> **PostgreSQL** •
-<img src="https://cdn.simpleicons.org/mysql" height="18"/> **MySQL** •
-<img src="https://cdn.simpleicons.org/docker" height="18"/> **Docker** •
-<img src="https://cdn.simpleicons.org/postman" height="18"/> **Postman** •
-🌐 **REST APIs** •
-⚙️ **Microservices**
-
----
+- Python
+- FastAPI
+- PostgreSQL
+- MySQL
+- Streamlit
+- Microservices
+- OAuth
+- API Integrations
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://cdn.simpleicons.org/microsoftazure" height="18"/> **Microsoft Azure** •
-<img src="https://cdn.simpleicons.org/git" height="18"/> **Git** •
-<img src="https://cdn.simpleicons.org/github" height="18"/> **GitHub** •
-<img src="https://cdn.simpleicons.org/linux" height="18"/> **Linux** •
-🚀 **Azure DevOps** •
-⚙️ **CI/CD**
+- Microsoft Azure
+- Docker
+- Git
+- GitHub
+- Linux
+- Azure DevOps
+- CI/CD
 
 ---
 
@@ -107,25 +124,25 @@ I build production-ready AI applications that automate real-world business workf
 
 ## 🤖 AI WhatsApp Customer Support Agent
 
-Enterprise AI customer support platform using **GPT-4.1-mini, Pinecone, PostgreSQL, n8n, WATI APIs and RAG**.
+Enterprise AI customer support platform built using **GPT-4.1-mini, Pinecone, PostgreSQL, n8n, WATI APIs, and RAG**.
 
 ---
 
 ## 🧠 DeepResearch Agent
 
-Autonomous multi-agent research platform built with **LangGraph, LangChain, Gemini, Streamlit and Tool Calling**.
+Autonomous multi-agent research platform built with **LangGraph, LangChain, Gemini, Streamlit, and tool-calling workflows**.
 
 ---
 
 ## 🏢 AI Employee Assessment Agent
 
-Enterprise AI assessment platform using **Microsoft Copilot Studio, Azure DevOps, Microsoft Graph APIs, React and RAG**.
+Enterprise assessment platform using **Microsoft Copilot Studio, Azure DevOps, Microsoft Graph APIs, React, and RAG**.
 
 ---
 
 ## ⚡ AI Workflow Automation
 
-Enterprise workflow automation using **LLMs, n8n, APIs, Webhooks and Microsoft 365 integrations**.
+AI-powered workflow automation using **LLMs, n8n, APIs, Webhooks, Microsoft 365, and enterprise integrations**.
 
 ---
 
@@ -134,7 +151,7 @@ Enterprise workflow automation using **LLMs, n8n, APIs, Webhooks and Microsoft 3
 - 🤖 Enterprise AI Agents
 - ⚡ AI Automation
 - 🧠 Agentic AI
-- 📚 Retrieval-Augmented Generation (RAG)
+- 🔍 Retrieval-Augmented Generation (RAG)
 - 🔗 LangGraph
 - ☁️ Azure AI
 - 🚀 FastAPI
@@ -173,6 +190,7 @@ Enterprise workflow automation using **LLMs, n8n, APIs, Webhooks and Microsoft 3
 
 ### ⭐ Thanks for visiting my profile!
 
-**Building Intelligent AI Systems • LLM Applications • AI Automation**
+**Building intelligent systems with AI, Automation & Modern Software Engineering**
 
 </div>
+
